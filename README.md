@@ -36,30 +36,7 @@
 * [Coding and Practical Implementation](#coding-and-practical-implementation)
 * [Behavioral and Scenario-Based Questions](#behavioral-and-scenario-based-questions)
 
-### Prepared and maintained by the **Founder** of [Outcome School](https://outcomeschool.com): Amit Shekhar
 
-### Follow Amit Shekhar
-
-- [X/Twitter](https://twitter.com/amitiitbhu)
-- [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
-- [GitHub](https://github.com/amitshekhariitbhu)
-
-### Follow Outcome School
-
-- [YouTube](https://youtube.com/@OutcomeSchool)
-- [X/Twitter](https://x.com/outcome_school)
-- [LinkedIn](https://www.linkedin.com/company/outcomeschool)
-- [GitHub](http://github.com/OutcomeSchool)
-
-## I teach at Outcome School
-
-- [AI and Machine Learning](https://outcomeschool.com/program/ai-and-machine-learning)
-
----
-
-> **Note: We will keep updating this with new questions and answers.**
-
----
 
 ### Must Know
 
